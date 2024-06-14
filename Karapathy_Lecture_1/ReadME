@@ -1,0 +1,7 @@
+value_class contains scalar implementation which resembles and agrees with the pytorch api
+test_value_class is a test file which tests the implementation of value_class
+
+################################################################################################
+
+nn_engine contains implementation of MLP Neural Network using Value Container
+nn_engine_test file has one simple example of creating a MLP NN & training the model and validating the results
