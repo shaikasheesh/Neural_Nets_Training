@@ -1,1 +1,4 @@
+This Notebook contains implementation of Bigram Language model using Counts Matrix (N) as First approach 
+and we will achieve the same using NN approach. suprisingly we will end up at the same results from both the approaches
 
+Check the notebook for more details 
